@@ -1,3 +1,6 @@
 /* Links */
 https://graphql.org/
 https://cognizant.udemy.com/course/graphql-by-example/learn/lecture/37217980#overview
+
+/* start Apollo Server */
+node server.js
