@@ -1,1 +1,2 @@
-
+/* Links */
+https://go.dev/
